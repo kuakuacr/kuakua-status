@@ -14,7 +14,11 @@ sites:
       - 200
       - 404
   - name: Tarjetas (Nota Floral)
-    url: https://tarjetas.kuakua.cr
+    url: https://tarjetas.kuakua.cr/n/
+    # Sin token responde 410 Gone a propósito (ver kuakua-infra/monitoring/monitors.yml) — solo 5xx/timeout son caída real
+    expectedStatusCodes:
+      - 200
+      - 410
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
