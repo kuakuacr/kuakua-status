@@ -1,0 +1,30 @@
+/* Kua'kua — paleta de marca aplicada a las variables CSS de Upptime.
+   Referencia de variables: https://github.com/upptime/status-page/blob/HEAD/static/themes/dark.css
+   Semántica de estado (verde=up, ámbar=degradado, naranja=down) se mantiene
+   reconocible; el resto de la interfaz usa los colores de Kua'kua. */
+:root {
+  --body-background-color: #efe9db;
+  --body-text-color: #00352a;
+  --card-background-color: #ffffff;
+  --nav-background-color: #005d4b;
+  --nav-border-bottom-color: #00473a;
+  --nav-current-border-bottom-color: #d1e01c;
+  --card-border-color: #e4ddc9;
+  --down-border-left-color: #ff3000;
+  --down-background-color: #ffe4dc;
+  --degraded-border-left-color: #e0a712;
+  --up-border-left-color: #1a7a5e;
+  --tag-color: #ffffff;
+  --tag-up-background-color: #1a7a5e;
+  --tag-down-background-color: #ff3000;
+  --tag-degraded-background-color: #e0a712;
+  --change-background-color: #e0a712;
+  --error-button-border-color: #ff3000;
+  --error-button-background-color: #ff3000;
+  --error-button-color: #ffffff;
+  --submit-button-border-color: #005d4b;
+  --submit-button-background-color: #005d4b;
+  --submit-button-color: #ffffff;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
