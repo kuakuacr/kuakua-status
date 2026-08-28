@@ -55,22 +55,22 @@
   },
   {
     "name": "Tarjetas (Nota Floral)",
-    "url": "https://tarjetas.kuakua.cr",
+    "url": "https://tarjetas.kuakua.cr/n/",
     "icon": "https://icons.duckduckgo.com/ip3/tarjetas.kuakua.cr.ico",
     "slug": "tarjetas-nota-floral",
-    "status": "down",
-    "uptime": "63.29%",
-    "uptimeDay": "63.29%",
-    "uptimeWeek": "63.29%",
-    "uptimeMonth": "63.29%",
-    "uptimeYear": "63.29%",
-    "time": 436,
-    "timeDay": 436,
-    "timeWeek": 436,
-    "timeMonth": 436,
-    "timeYear": 436,
+    "status": "up",
+    "uptime": "41.06%",
+    "uptimeDay": "41.06%",
+    "uptimeWeek": "41.06%",
+    "uptimeMonth": "41.06%",
+    "uptimeYear": "41.06%",
+    "time": 401,
+    "timeDay": 401,
+    "timeWeek": 401,
+    "timeMonth": 401,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2026-08-28": 0
+      "2026-08-28": 1
     }
   }
 ]
