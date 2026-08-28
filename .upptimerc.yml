@@ -9,6 +9,10 @@ sites:
     url: https://chat.kuakua.cr
   - name: Seguimiento de envíos
     url: https://go.kuakua.cr
+    # La raíz sin token de envío da 404 a propósito (ver kuakua-infra/monitoring/monitors.yml) — solo 5xx/timeout son caída real
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Tarjetas (Nota Floral)
     url: https://tarjetas.kuakua.cr
 
