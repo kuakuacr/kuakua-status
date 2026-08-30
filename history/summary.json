@@ -4,19 +4,19 @@
     "url": "https://kuakua.art",
     "icon": "https://icons.duckduckgo.com/ip3/kuakua.art.ico",
     "slug": "sitio-web",
-    "status": "down",
-    "uptime": "90.75%",
-    "uptimeDay": "81.56%",
-    "uptimeWeek": "90.75%",
-    "uptimeMonth": "90.75%",
-    "uptimeYear": "90.75%",
-    "time": 161,
-    "timeDay": 121,
-    "timeWeek": 161,
-    "timeMonth": 161,
-    "timeYear": 161,
+    "status": "up",
+    "uptime": "85.83%",
+    "uptimeDay": "70.14%",
+    "uptimeWeek": "85.83%",
+    "uptimeMonth": "85.83%",
+    "uptimeYear": "85.83%",
+    "time": 145,
+    "timeDay": 107,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2026-08-30": 266
+      "2026-08-30": 430
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://chat.kuakua.cr",
     "icon": "https://icons.duckduckgo.com/ip3/chat.kuakua.cr.ico",
     "slug": "pedidos-por-whats-app",
-    "status": "down",
-    "uptime": "91.08%",
-    "uptimeDay": "82.23%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "91.08%",
-    "uptimeYear": "91.08%",
-    "time": 292,
-    "timeDay": 169,
-    "timeWeek": 292,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "status": "up",
+    "uptime": "86.15%",
+    "uptimeDay": "70.81%",
+    "uptimeWeek": "86.15%",
+    "uptimeMonth": "86.15%",
+    "uptimeYear": "86.15%",
+    "time": 279,
+    "timeDay": 189,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2026-08-30": 256
+      "2026-08-30": 421
     }
   },
   {
