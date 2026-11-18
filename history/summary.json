@@ -4,17 +4,17 @@
     "url": "https://kuakua.art",
     "icon": "https://icons.duckduckgo.com/ip3/kuakua.art.ico",
     "slug": "sitio-web",
-    "status": "down",
-    "uptime": "97.70%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "97.70%",
-    "time": 216,
-    "timeDay": 86,
-    "timeWeek": 190,
-    "timeMonth": 225,
-    "timeYear": 216,
+    "status": "up",
+    "uptime": "97.57%",
+    "uptimeDay": "88.47%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "97.57%",
+    "time": 215,
+    "timeDay": 137,
+    "timeWeek": 207,
+    "timeMonth": 223,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2026-08-30": 430,
       "2026-09-02": 420,
@@ -26,7 +26,7 @@
       "2026-09-30": 315,
       "2026-10-20": 5,
       "2026-10-22": 8,
-      "2026-11-18": 5
+      "2026-11-18": 166
     }
   },
   {
@@ -34,16 +34,16 @@
     "url": "https://chat.kuakua.cr",
     "icon": "https://icons.duckduckgo.com/ip3/chat.kuakua.cr.ico",
     "slug": "pedidos-por-whats-app",
-    "status": "down",
-    "uptime": "97.77%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "97.77%",
+    "status": "up",
+    "uptime": "97.64%",
+    "uptimeDay": "88.81%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "97.64%",
     "time": 373,
-    "timeDay": 292,
-    "timeWeek": 359,
-    "timeMonth": 381,
+    "timeDay": 323,
+    "timeWeek": 380,
+    "timeMonth": 380,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2026-08-30": 421,
@@ -56,7 +56,7 @@
       "2026-09-30": 310,
       "2026-10-20": 0,
       "2026-10-22": 3,
-      "2026-11-18": 0
+      "2026-11-18": 161
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 256,
-    "timeWeek": 311,
-    "timeMonth": 328,
-    "timeYear": 323,
+    "time": 324,
+    "timeDay": 322,
+    "timeWeek": 342,
+    "timeMonth": 331,
+    "timeYear": 324,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 107,
-    "timeWeek": 272,
-    "timeMonth": 413,
-    "timeYear": 331,
+    "time": 330,
+    "timeDay": 212,
+    "timeWeek": 282,
+    "timeMonth": 409,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2026-08-28": 1
     }
